@@ -5,4 +5,5 @@ We are using the IMDB Top 250 Movies Dataset which contains the top 250 rated mo
 - What genre usually gets high ratings?
 - Which decade produces the most movies on this list?
 - What is the average IMDB rating over time?
+
 We are using Python and its libraries such as matplotlib, pandas, plotly, and numpy to clean and visualize the dataset.
