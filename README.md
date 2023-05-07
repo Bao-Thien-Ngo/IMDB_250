@@ -8,3 +8,4 @@ IMDB Top 250 Movies Analysis as of 2021
 - What is the average IMDB rating over time?
 
 We are using Python and its libraries such as matplotlib, pandas, plotly, and numpy to clean and visualize the dataset.
+* Note: For our last graph, we use Plotly to display the mean rating over time, since GitHub cannot show out graph so we attach its picture to this github repo.
